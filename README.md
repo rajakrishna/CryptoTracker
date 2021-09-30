@@ -1,5 +1,7 @@
 # Crypto Tracker
 
+Check it out here: https://easy-crypto-tracker.netlify.app/
+
 A website to view the top cryptocurrencies, crypto price history with charts, exchanges and crypto news.
 
 ![Homepage_Image](https://github.com/rajakrishna/CryptoTracker/blob/main/public/homepage.png)
